@@ -24,6 +24,7 @@
 <a href="https://github.com/dheandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  
 </a>
+  <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
