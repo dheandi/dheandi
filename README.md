@@ -11,19 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheandi&label=Profile%20views&color=0e75b6&style=flat" alt="dheandi" /> </p>
 
+<img align="right" alt="coding" width="800" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+- 👨‍💻 Web Developer
 - ⚡ Fun fact **I am funny😅**
 # 📊 GitHub Stats:
 
 <p align="left">
 <a href="https://github.com/dheandi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-<a href="https://github.com/dheandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
