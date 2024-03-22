@@ -13,12 +13,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheandi&label=Profile%20views&color=0e75b6&style=flat" alt="dheandi" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
-
 # 📊 GitHub Stats:
 
 <p align="left">
 <a href="https://github.com/dheandi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/dheandi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
