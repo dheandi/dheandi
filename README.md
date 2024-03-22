@@ -23,6 +23,7 @@
 
 <p align="left">
 <a href="https://github.com/dheandi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheandi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dheandi" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dheandi&theme=react&hide_border=true" alt="dheandi" />
