@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+I'm+I+Gede+Andi+Suwastika" alt="Typing SVG" /></a>
+</div>
+<a href=#><img src="contributions.svg"></a>
+  </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dheandi/count.svg" />
+</p>
 
-<!--
-**dheandi/dheandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/dheandi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dheandi&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
